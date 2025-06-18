@@ -36,3 +36,5 @@ In conclusion, this chatbot exemplifies the foundational principles of conversat
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/ba1601dd-4568-4013-b43a-ff42c4de1a3f)
+
